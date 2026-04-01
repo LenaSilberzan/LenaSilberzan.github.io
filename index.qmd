@@ -1,0 +1,31 @@
+---
+title: "Léna Silberzan"
+---
+
+Hello! My name is Léna Silberzan, and I am currently a postdoctoral researcher in social epidemiology and demography at INED (the French Institute for Demographic Studies). My research focuses on linking French administrative data for researching social inequalities in work and health, in the WORTH-IT (WORk, healTH, inequalITies) project. Prior to that, I did a PhD in social epidemiology on the intersectional inequalities in hypertension and hypertension management. I am also affiliated with the Gendhi (Gender and Health Inequalites) project. 
+
+You can find my CV [here](docs/CV.pdf)
+
+::: {.callout-note}
+
+## About my research
+<div style = "display: flex; flex-direction: column; gap: 10px;">
+
+<a href= "https://www.researchgate.net/profile/Lena-Silberzan-2" target="_blank">
+<button> ResearchGate</button>
+</a>
+
+<a href= "https://scholar.google.com/citations?user=BmWRE4sAAAAJ&hl=fr&oi=ao" target="_blank">
+<button> Google Scholar</button>
+</a>
+
+<a href= "https://fr.linkedin.com/in/l%C3%A9na-silberzan-68447212a" target="_blank">
+<button> LinkedIn</button>
+</a>
+
+
+</div>
+
+:::
+
+Keep in touch! lena.silberzan@ined.fr & lena.silberzan.research@gmail.com
